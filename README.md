@@ -35,7 +35,7 @@
 <br />
 ---
 
-<img align="left" alt="Aakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Aakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aakashsoni-cloud&show_icons=true&hide_border=true" />
 
 <!-- [website]: # -->
 [twitter]: https://twitter.com/aakashsoni_1
