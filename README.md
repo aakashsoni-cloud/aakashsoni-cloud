@@ -4,6 +4,7 @@
 
 ## I'm a Student, Coder, Developer, and Programmer!
 - 🔭 I’m currently working on a MERN Development
+- 💻 I'm Competitive Coding Enthusiasm
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Work with new creators
 - ⚡ I love to play guitar / games
