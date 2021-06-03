@@ -18,11 +18,7 @@
 [<img align="left" alt="aakashsoni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aakashsoni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="aakashsoni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
-
-[<img align="left" alt="aakashsoni " width="22px" src="https://img.shields.io/github/forks/aakashsoni-cloud/aakashsoni-cloud" />]
-[<img align="left" alt="aakashsoni " width="22px" src="https://img.shields.io/github/stars/aakashsoni-cloud/aakashsoni-cloud" />]
+[<img  src="https://img.shields.io/github/followers/aakashsoni-cloud?style=social" />]
 
 <br />
 
