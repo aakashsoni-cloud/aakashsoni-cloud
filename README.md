@@ -1,6 +1,7 @@
 # Profile  :octocat:
 ### Hi there, I'm [Aakash!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
+<img src="https://img.shields.io/twitter/follow/aakashsoni_1?style=social" alt="tweeter">
 
 ## I'm a Student, Coder, Developer, and Programmer!
 - 🔭 I’m currently working on a MERN Development
@@ -15,11 +16,11 @@
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="aakashsoni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aakashsoni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aakashsoni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="aakashsoni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img  src="https://img.shields.io/github/followers/aakashsoni-cloud?style=social" />]
-
+[<img align="left" alt="aakashsoni | Twitter" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aakashsoni | Instagram" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aakashsoni | YouTube" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<br/>
+<img  src="https://img.shields.io/github/followers/aakashsoni-cloud?style=social" />
 <br />
 
 ### Languages and Tools:
