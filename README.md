@@ -3,12 +3,10 @@
 
 <img src="https://img.shields.io/twitter/follow/aakashsoni_1?style=social" alt="tweeter">
 
-## I'm a Student, Coder, Developer, and Programmer!
-- 🔭 I’m currently working on a MERN Development
-- 💻 I'm Competitive Coding Enthusiasm
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to Work with new creators
-- ⚡ I love to play guitar / games
+## I'm a Software Engineer, Frontend Developer, and Competitive Coding Enthusiasm!
+- 🔭 Software Engineer with expertise in React.js, Redux, JavaScript, TypeScript, and Node.js.
+- 👯 Skilled in meeting project goals, exceeding client expectations, and delivering impactful solutions.
+- ⚡ I am a team player, effectively do project management, and also take mentorship
 
 ---
 
